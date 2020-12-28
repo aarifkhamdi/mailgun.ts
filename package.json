@@ -1,0 +1,8 @@
+{
+  "name": "mailgun.ts",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aarifkhamdi/mailgun.ts",
+  "author": "aarifkhamdi <aarifkhamdi@gmail.com>",
+  "license": "MIT"
+}
